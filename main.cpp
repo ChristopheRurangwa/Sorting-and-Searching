@@ -209,11 +209,6 @@ void lookUpPrices(string console[],int prices [],int SIZE){
 
 }
 
-
-
-
-
-
 /**
  * This function will sort or order values in the decending order
  * @param console
